@@ -1,5 +1,13 @@
 # e-conomic & sproom hiring task
 
+**OOBS! NOTE THAT I HAVE ADDED A FILE APICALLS.md IN ORDER FOR YOU TO QUICKLY GET DEMONSTRATED THE MUTATOR METHODS WITH CURL COMMANDS**
+
+**DISCLAIMER! MISSING UNIT/INTEGRATION TESTS**
+
+**BEST REGARDS**
+
+**MUHAMMED** 
+
 As a part of the e-conomic/sproom recruitment process we ask our candidates to complete a practical development challenge. The challenge consists of two parts:
 
 1. You solve the provided task, and send the results to us.
