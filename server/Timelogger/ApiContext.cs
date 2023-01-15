@@ -11,5 +11,9 @@ namespace Timelogger
 		}
 
 		public DbSet<Project> Projects { get; set; }
+		public DbSet<Week> Weeks { get; set; }
+		public DbSet<Day> Days { get; set; }
+
 	}
+	
 }
